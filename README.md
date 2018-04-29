@@ -10,7 +10,7 @@ The .tar.gz file contains the Linux portable binaries ready to run.
 $ tar -xzvf xmr-stak-linux-x86-64-vx.x.x.tar.gz \
   ^ extract binaries from archive \
 $ cd xmr-stak-linux-x86-64-vx.x.x \
-$ xmr-stak.sh \
+$ ./xmr-stak.sh \
   ^ follow instructions in order to set up the miner
 
 ### Support us
